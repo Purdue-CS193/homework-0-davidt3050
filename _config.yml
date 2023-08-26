@@ -1,1 +1,2 @@
-theme: jekyll-theme-hacker
+# sets the website's theme to modernist, the original theme was hacker
+theme: jekyll-theme-modernist
