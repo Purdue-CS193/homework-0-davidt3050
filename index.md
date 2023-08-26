@@ -1,3 +1,8 @@
-## Welcome to David's Website
+# David Thomas's First CS193 Homework
 
-David is a freshmen at Purdue University who is currently studying Computer Science. Upon graduating, he plans on working as a Software Engineer.
+## Favorite Things About CS 193
+
+- CS 193 is full of helpful instructors.
+- CS 193 only meets one hour a week.
+- CS 193 has NO exams!
+
